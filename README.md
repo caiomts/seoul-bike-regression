@@ -33,5 +33,6 @@ The R-squared is the percentage of the target value (total of rented bikes per h
 
 Here Lasso and ElasticNet are the same model as the penality is totally L1 (Manhattan Distance or Taxicab norm). The difference between Lasso and OrthogonalMatchingPursuit is small, but Lasso performed better and achieve more regularization and zero coefficients. Finally, during the test set both models performed as well as in the cross-validation.
 ![](./report/figures/model_perf.png)
+
 Find out more in the report!
 
